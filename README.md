@@ -8,5 +8,11 @@
 - [ ] New dashboards for Qliksense
 - [ ] Documentation for Qlik Knowledge Base
 - [ ] Visual enhancements
-  - [ ] HTML, Javascript, CSS
 - [ ] Improve existing dashboards
+
+#### Knowledge List
+- [ ] HTML, Javascript, CSS
+- [ ] SQL/T-SQL
+- [ ] Markdown
+- [ ] Qliksense/Qlikview data expressions
+- [ ] Qlikscript
