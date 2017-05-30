@@ -17,6 +17,10 @@
 - [ ] Qliksense/Qlikview data expressions
 - [ ] Qlikscript
 
-====
-Hello
-===
+
+Name | Department | Role
+---- | ---------- | ----
+James McElduff | IT | Dashboard Developer Intern
+Nareen Gurnani | IT | IT Director
+Doug Hsaio | IT | Systems Administrator
+Donn Zhao | IT | Sr. Developer
