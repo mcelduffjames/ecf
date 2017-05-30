@@ -17,10 +17,15 @@
 - [ ] Qliksense/Qlikview data expressions
 - [ ] Qlikscript
 
+### Calendar
+## Week of May 22 - May 26, 2017
+1. Monday: Onboarding with HR, Nareen, getting settled on my first day.
+2. Tuesday: Learning the basics of Qlik, completing training.
+3. Wednesday: Continuing with the Qliksense textbook, more company training. Learned about SQL/T-SQL. Practiced with Qliksense dashboards.
+4. Thursday: Finished training and Qliksense textbook, learned more about SQL/T-SQL from Donn.
+5. Friday: 3pm dismissal because of Memorial Day Weekend. Practiced with Qliksense dashboards from examples found online.
+#### Weekly Summation: First week, can't expect (or be expected) much. Learned quickly how to use Qliksense, SQL/T-SQL.
 
-Name | Department | Role
----- | ---------- | ----
-James McElduff | IT | Dashboard Developer Intern
-Nareen Gurnani | IT | IT Director
-Doug Hsaio | IT | Systems Administrator
-Donn Zhao | IT | Sr. Developer
+## Week of May 29 - June 2, 2017
+1. Monday: Memorial Day, no work.
+2. Tuesday: Waiting to be granted permissions to databases and have Qlikview installed so I can begin my first small project of a Qlikview to Qliksense migration. Practicing with Markdown and the capabilities (and limits) of the file type.
