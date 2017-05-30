@@ -28,4 +28,4 @@
 
 ## Week of May 29 - June 2, 2017
 1. Monday: Memorial Day, no work.
-2. Tuesday: Waiting to be granted permissions to databases and have Qlikview installed so I can begin my first small project of a Qlikview to Qliksense migration. Practicing with Markdown and the capabilities (and limits) of the file type.
+2. Tuesday: Waiting to be granted permissions to databases and have Qlikview installed so I can begin my first small project of a Qlikview to Qliksense migration. Practicing with Markdown and the capabilities (and limits) of the file type. Worked on the Equity Example (data from Qliksense online forums), sharpened up visuals and attempted to further understand expressions. Attended a Qliksense NPrinting meeting to talk about Qlik licenses and problems.
