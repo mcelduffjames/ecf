@@ -1,4 +1,4 @@
-![ecf](ecf.png)
+![ecf](ecf.jpg)
 # ECF
 ## IT Dashboard Developer Internship
 ###### James McElduff
