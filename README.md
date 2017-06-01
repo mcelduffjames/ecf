@@ -1,4 +1,3 @@
-![ecf](ecf.jpg)
 <img src = "ecf.jpg" height = "165" width = "330">
 # ECF
 ## IT Dashboard Developer Internship
