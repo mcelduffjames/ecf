@@ -37,4 +37,4 @@
 #### Weekly Summary: Lots of waiting for permissions. Began/finished the "Rate Plan Surveillance" migration example from QlikView to QlikSense. Learned more about SQL and NPrinting.
 
 ## Week of June 5 - June 9, 2017
-1. Monday:
+1. Monday: Visual edits on the Rate Plan Surveillance Dashboard per Donn's recommendations. Learned more about QDF and how it creates an organized folder structure for each QlikSense application. This is used to better document and keep track of our work. Attended a Lunch & Learn with Joe Inferrera who spoke broadly of the organization/company. Met the other interns.
