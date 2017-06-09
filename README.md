@@ -41,3 +41,4 @@
 2. Tuesday: Began the day by learning more about the QDF and working through the practice examples.
 3. Wednesday: Started to migrate "Support Center" over to QlikSense. Received permissions to open files. Working on QlikSense Desktop, will upload to web later - need to learn how to connect to SQL DB (how to find it in the QlikView script).
 4. Finished the migration for the Support Center dashboard on QlikSense Desktop. Need to upload it to the server to add things like climber selection panels and heat maps (no extension on my local QlikSense Desktop) in order to finish the dashboard. Need a license/subscription to QlikView to continue opening QlikView files. Also need to secure connection to SupportCenter DB to get data flowing.
+5. Friday: Continued to work on the Support Center dashboard migration. Figuerd out the QVD Generator and connected the proper path for the Support Center Dashboard. Working on heatmap and climber filter visualizations.
