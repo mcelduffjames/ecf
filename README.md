@@ -7,6 +7,8 @@
 
 #### Tasklist
 - [ ] Qlikview to Qliksense migration
+  - [x] Rate Plan Surveillance
+  - [ ] Support Center
 - [ ] New dashboards for Qliksense
 - [ ] Documentation for Qlik Knowledge Base
 - [ ] Visual enhancements
@@ -14,7 +16,7 @@
 
 #### Knowledge List
 - [ ] HTML, Javascript, CSS
-- [ ] SQL/T-SQL
+- [x] SQL/T-SQL
 - [ ] Markdown
 - [ ] Qliksense/Qlikview data expressions
 - [ ] Qlikscript
