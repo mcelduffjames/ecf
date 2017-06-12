@@ -42,3 +42,7 @@
 3. Wednesday: Started to migrate "Support Center" over to QlikSense. Received permissions to open files. Working on QlikSense Desktop, will upload to web later - need to learn how to connect to SQL DB (how to find it in the QlikView script).
 4. Finished the migration for the Support Center dashboard on QlikSense Desktop. Need to upload it to the server to add things like climber selection panels and heat maps (no extension on my local QlikSense Desktop) in order to finish the dashboard. Need a license/subscription to QlikView to continue opening QlikView files. Also need to secure connection to SupportCenter DB to get data flowing.
 5. Friday: Continued to work on the Support Center dashboard migration. Figuerd out the QVD Generator and connected the proper path for the Support Center Dashboard. Working on heatmap and climber filter visualizations. Calendar heatmap extension will not work because we need a 2 dimensional heatmap, and the calendar extension is monodimensional. Working to clean up and simplify the logic in the Support Center. Will work to remove the QVD aspect of it, as it does not get a lot of data from the DB. Working to let the scatter chart's dimension depend upon a filter pane. Also trying to clean up the date selection process, and remove the "Internal Engine Error" error. It has something to do with the variables and picking a singular day.
+#### Weekly Summary: Started the Support Center Dashboard migration. Learned about QDF.
+
+## Week of June 12 - June 16, 2017
+1. Monday:
