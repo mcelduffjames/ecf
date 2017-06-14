@@ -8,7 +8,12 @@
 #### Tasklist
 - [ ] Qlikview to Qliksense migration
   - [x] Rate Plan Surveillance
-  - [ ] Support Center
+  - [x] Support Center
+  - [x] Support Center QVD Generator
+  - [ ] Home Lending Ops
+  - [ ] Home Lending Ops QVD Generator Part 1
+  - [ ] Home Lending Ops QVD Generator Part 2
+  - [ ] Home Lending Sales
 - [ ] New dashboards for Qliksense
 - [ ] Documentation for Qlik Knowledge Base
 - [ ] Visual enhancements
