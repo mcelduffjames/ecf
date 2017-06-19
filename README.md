@@ -60,4 +60,4 @@
 #### Weekly Summary: Big week for Qlik View to Qlik Sense migration. Finished the Support Center and Rate Plan Surveillance dashboard migrations.
 
 ## Week of June 19 - June 23, 2017
-1. Monday: Worked on the QVPR Reload Schedule for most of the day. Created a Excel report, then Word, then .md for documentation purposes. Received the Action Resolution dashboard to begin on, but can't view the substructure of the dashboard until I get the .qvw files from Donn. 
+1. Monday: Worked on the QVPR Reload Schedule for most of the day. Created a Excel report, then Word, then .md for documentation purposes. Received the Action Resolution dashboard to begin on, but can't view the substructure of the dashboard until I get the .qvw files from Donn. Began work on the Action Resolution Dashboard.
