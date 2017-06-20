@@ -14,6 +14,7 @@
   - [ ] Home Lending Ops QVD Generator Part 1
   - [ ] Home Lending Ops QVD Generator Part 2
   - [ ] Home Lending Sales
+  - [ ] Action Resolution Tracking
 - [ ] New dashboards for Qliksense
 - [ ] Documentation for Qlik Knowledge Base
 - [ ] Visual enhancements
