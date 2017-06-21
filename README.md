@@ -63,3 +63,4 @@
 ## Week of June 19 - June 23, 2017
 1. Monday: Worked on the QVPR Reload Schedule for most of the day. Created a Excel report, then Word, then .md for documentation purposes. Received the Action Resolution dashboard to begin on, but can't view the substructure of the dashboard until I get the .qvw files from Donn. Began work on the Action Resolution Dashboard.
 2. Tuesday: Worked on the Action Resolution Dashboard. Learned about the `SET HidePrefix = ''`. Learned about loading in expressions from an outside source - similar to calling a function.
+3. Wednesday: Working on the Action Resolutoin Dashboard. Still to do: figure out the main KPIs and why they don't show up, fix the No. of Actions/ Serviced Contracts table, As Of Date, bar chart within table for Issues tables, Office Name in Details table.
