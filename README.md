@@ -66,3 +66,8 @@
 3. Wednesday: Working on the Action Resolutoin Dashboard. Still to do: figure out the main KPIs and why they don't show up, fix the No. of Actions/ Serviced Contracts table, As Of Date, bar chart within table for Issues tables, Office Name in Details table. Bug in the data load script- cannot relate anything to the Platform table, as the OfficeNumber connection key does not match up. Suspect the reason is that one is a string and the other is a number. Donn will be looking into it.
 4. Thursday: Working on completing the Action Resolution Dashboard. Figured out the error in the load script - needed to do `num#(OfficeNumber) AS OfficeNumber` in order for the keys to match up. Still working for the bar chart within table and to get and better understand the date filter. Added a line in the data load script to format the date correctly. This allows for the filter pane's title (in this case footnote) to update based upon user selection. Bar chart within table is a mess - with two different fields (Contract/Application) and two if statements for each, it's not as easy as it was for the Support Center.
 5. Friday: Fixing the date field deleted the bar gauges, added percentages to the KPIs as well as total resolved/total number for Action Resolution.
+#### Weekly Summary: Worked a lot on the Action Resolution Dashboard and documenting.
+
+## Week of June 26 - June 30, 2017
+1. Monday: Finished up the Action Resolution Tracking dashboard. Began to work on the VEF Credit Tracking dashboard front end objects, still waiting on the QVDs from Donn to connect data. Also going back and cleaning up some visualizations on the Action Resolution dashboard.
+
