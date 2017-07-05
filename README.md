@@ -71,5 +71,12 @@
 ## Week of June 26 - June 30, 2017
 1. Monday: Finished up the Action Resolution Tracking dashboard. Began to work on the VEF Credit Tracking dashboard front end objects, still waiting on the QVDs from Donn to connect data. Also going back and cleaning up some visualizations on the Action Resolution dashboard.
 2. Tuesday: Working on the QVD Generator for Credit Dashboard. Sifting through the old QVDs and trying to comnine them all into one central QVD.
-3. Working on the QVD Generator for Credit Dashboard. Finished the QVD Generator.
-4. Fixing some small things within the Credit Dashboard - the "Who is Accessing," "Yield," and "Cost in the email" fields.
+3. Wednesday: Working on the QVD Generator for Credit Dashboard. Finished the QVD Generator.
+4. Thursday: Fixing some small things within the Credit Dashboard - the "Who is Accessing," "Yield," and "Cost in the email" fields.
+5. Friday: Worked to complete the Credit dashboard and started on the VEF Monthly Snapshot dashboard.
+#### Weekly Summary: Completed the Credit Dashboard and began the VEF Monthly Snapshot Dashboard.
+
+## Week of July 3 - July 7, 2017
+1. Monday: Took off.
+2. Tuesday: July 4, company holiday.
+3. Wednesday: Working on the VEF Monthly Snapshot Dashboard.
