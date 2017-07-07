@@ -80,3 +80,5 @@
 1. Monday: Took off.
 2. Tuesday: July 4, company holiday.
 3. Wednesday: Working on the VEF Monthly Snapshot Dashboard.
+4. Thursday: Working more on the VEF Monthly Snapshot Dashboard. Started Support Center testing. VEF Monthly Snapshot needs to be finished by next week and put into staging.
+5. Friday: Finished Support Center Testing. Working on Docs Received testing and figuring out bugs in VEF Monthly Snapshot QVD Generators. Not recognizing "SalesRepNumber" for some reason.
