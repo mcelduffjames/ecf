@@ -82,3 +82,7 @@
 3. Wednesday: Working on the VEF Monthly Snapshot Dashboard.
 4. Thursday: Working more on the VEF Monthly Snapshot Dashboard. Started Support Center testing. VEF Monthly Snapshot needs to be finished by next week and put into staging.
 5. Friday: Finished Support Center Testing. Working on Docs Received testing and figuring out bugs in VEF Monthly Snapshot QVD Generators. Not recognizing "SalesRepNumber" for some reason.
+#### Weekly Summary: VEF Monthly Snapshot Dashboard and testing for Support Center.
+
+## Week of July 10 - July 14, 2017
+1. Monday:
