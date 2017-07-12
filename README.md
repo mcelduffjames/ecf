@@ -87,3 +87,4 @@
 ## Week of July 10 - July 14, 2017
 1. Monday: Training start. Learned about new things in Qlik Sense, changes from Qlik View, understanding layout and data loading.
 2. Tuesday: Worked with set expressions (set analysis), mapping, joins, concatenation, geo location.
+3. Wednesday:
