@@ -88,4 +88,4 @@
 1. Monday: Training start. Learned about new things in Qlik Sense, changes from Qlik View, understanding layout and data loading.
 2. Tuesday: Worked with set expressions (set analysis), mapping, joins, concatenation, geo location.
 3. Wednesday: Learned about set analysis, visuals, mashups, extensions, and some script loading. Learned that the LOAD part isn't neccessary with SQL select from a SQL server.
-4. Thursday:
+4. Thursday: Visualizations, QS Desktop, to read: The Functional Art. Extensions.
