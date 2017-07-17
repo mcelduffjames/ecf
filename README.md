@@ -90,3 +90,7 @@
 3. Wednesday: Learned about set analysis, visuals, mashups, extensions, and some script loading. Learned that the LOAD part isn't neccessary with SQL select from a SQL server.
 4. Thursday: Visualizations, QS Desktop, to read: The Functional Art. Extensions.
 5. Friday: Data Load Editor, limited loads, debugging in the data load editor, section access, QV -> QS migration example.
+#### Weekly Summary: Training.
+
+## Week of July 17 - July 21, 2017
+1. Monday:
