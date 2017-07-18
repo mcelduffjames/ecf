@@ -93,4 +93,5 @@
 #### Weekly Summary: Training.
 
 ## Week of July 17 - July 21, 2017
-1. Monday:
+1. Monday: Validation for Action Resolution Tracking. Trying to figure out "Apps Booked From This Morning" error in Docs Received.
+2. Tuesday: Action Resolution Validation. Everything works well except the latest date.
