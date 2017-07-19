@@ -94,4 +94,5 @@
 
 ## Week of July 17 - July 21, 2017
 1. Monday: Validation for Action Resolution Tracking. Trying to figure out "Apps Booked From This Morning" error in Docs Received.
-2. Tuesday: Action Resolution Validation. Everything works well except the latest date. Working to resolve EF_Contracts MaxDate, and fix data for VEF Monthly Snapshot. Started to work on limiting access times of Rate Plan Surveillance to LeaseWorks database. 
+2. Tuesday: Action Resolution Validation. Everything works well except the latest date. Working to resolve EF_Contracts MaxDate, and fix data for VEF Monthly Snapshot. Started to work on limiting access times of Rate Plan Surveillance to LeaseWorks database.
+3. Wednesday: 
