@@ -96,4 +96,5 @@
 1. Monday: Validation for Action Resolution Tracking. Trying to figure out "Apps Booked From This Morning" error in Docs Received.
 2. Tuesday: Action Resolution Validation. Everything works well except the latest date. Working to resolve EF_Contracts MaxDate, and fix data for VEF Monthly Snapshot. Started to work on limiting access times of Rate Plan Surveillance to LeaseWorks database.
 3. Wednesday: Wrote guards so that Rate Plans Surveillance doesn't try to access LeaseWorks while LeaseWorks is down. Started a "Bug Watch" list to keep track of bugs and resolves. 
-4. Updated Bug Watch with a table to more easily view and comment on bugs, working to implement AutoCalendar in Action Resolution.
+4. Thursday: Updated Bug Watch with a table to more easily view and comment on bugs, working to implement AutoCalendar in Action Resolution.
+5. Friday: Visual changes to Rate Plans Surveillance. Worked to resolve most recent date bug in Action Resolution.
