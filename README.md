@@ -98,3 +98,7 @@
 3. Wednesday: Wrote guards so that Rate Plans Surveillance doesn't try to access LeaseWorks while LeaseWorks is down. Started a "Bug Watch" list to keep track of bugs and resolves. 
 4. Thursday: Updated Bug Watch with a table to more easily view and comment on bugs, working to implement AutoCalendar in Action Resolution.
 5. Friday: Visual changes to Rate Plans Surveillance. Worked to resolve most recent date bug in Action Resolution.
+#### Weekly Summary: Migration Testing and bug fixing.
+
+## Week of July 24 - July 28, 2017
+1. Monday:
