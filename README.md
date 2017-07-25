@@ -101,4 +101,5 @@
 #### Weekly Summary: Migration Testing and bug fixing.
 
 ## Week of July 24 - July 28, 2017
-1. Monday:
+1. Monday: Worked on visual changes to VEF Credit Monthly Dashboard.
+2. Tuesday:
