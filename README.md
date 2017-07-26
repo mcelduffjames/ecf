@@ -102,4 +102,5 @@
 
 ## Week of July 24 - July 28, 2017
 1. Monday: Worked on visual changes to VEF Credit Monthly Dashboard.
-2. Tuesday:
+2. Tuesday: Debugging VEF Monthly Snapshot. Seems to be a problem with PlatformNumber link between Contract and PlanTemp tables.
+3. Wednesday: Continue with debugging of VEF Monthly Snapshot.
