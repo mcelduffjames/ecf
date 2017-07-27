@@ -104,3 +104,4 @@
 1. Monday: Worked on visual changes to VEF Credit Monthly Dashboard.
 2. Tuesday: Debugging VEF Monthly Snapshot. Seems to be a problem with PlatformNumber link between Contract and PlanTemp tables.
 3. Wednesday: Continue with debugging of VEF Monthly Snapshot.
+4. Thursday: More work on VEF Monthly Snapshot. OfficeNumber data type mismatch found.
