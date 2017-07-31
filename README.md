@@ -105,3 +105,8 @@
 2. Tuesday: Debugging VEF Monthly Snapshot. Seems to be a problem with PlatformNumber link between Contract and PlanTemp tables.
 3. Wednesday: Continue with debugging of VEF Monthly Snapshot.
 4. Thursday: More work on VEF Monthly Snapshot. OfficeNumber data type mismatch found.
+5. Friday: VEF Monthly Snapshot debugging.
+## Weekly Summary: VEF Monthly Snapshot.
+
+## Week of Jule 31 - August 4, 2017
+1. Monday: VEF Monthly Snapshot debugging - trying to correct the bar charts on Sales Rep Group Monthly Snapshot page.
