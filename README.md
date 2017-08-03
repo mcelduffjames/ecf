@@ -110,3 +110,6 @@
 
 ## Week of Jule 31 - August 4, 2017
 1. Monday: VEF Monthly Snapshot debugging - trying to correct the bar charts on Sales Rep Group Monthly Snapshot page.
+2. Tuesday: VEF Monthly Snapshot.
+3. Wednesday: Visual edits on Credit Tracking, added guards to Credit QVD to only access databases when it's supposed to.
+4. Thursday:
