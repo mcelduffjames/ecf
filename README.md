@@ -106,7 +106,7 @@
 3. Wednesday: Continue with debugging of VEF Monthly Snapshot.
 4. Thursday: More work on VEF Monthly Snapshot. OfficeNumber data type mismatch found.
 5. Friday: VEF Monthly Snapshot debugging.
-## Weekly Summary: VEF Monthly Snapshot.
+#### Weekly Summary: VEF Monthly Snapshot.
 
 ## Week of Jule 31 - August 4, 2017
 1. Monday: VEF Monthly Snapshot debugging - trying to correct the bar charts on Sales Rep Group Monthly Snapshot page.
@@ -114,3 +114,8 @@
 3. Wednesday: Visual edits on Credit Tracking, added guards to Credit QVD to only access databases when it's supposed to.
 4. Thursday: VEF Monthly Snapshot.
 5. Friday: VEF Monthly Snapshot and Action Resolution Tracking debugging.
+#### Weekly Summary: Debugging the VEF Monthly Snapshot and working on Credit Tracking.
+
+## Week of August 7 - August 11, 2017
+1. Monday: Spent the day working on Action Resolution Tracking (Contract filter for the most recent date loaded shows all 0s). Also began to work on cleaning up Support Center.
+2. Tuesday: Created autocalendar in Support Center and deleted existing repetitive date fields. Also removed unneccessary tables in Action Resolution (alpha sorts, numeric sorts). 
