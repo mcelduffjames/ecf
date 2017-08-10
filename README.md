@@ -120,3 +120,4 @@
 1. Monday: Spent the day working on Action Resolution Tracking (Contract filter for the most recent date loaded shows all 0s). Also began to work on cleaning up Support Center.
 2. Tuesday: Created autocalendar in Support Center and deleted existing repetitive date fields. Also removed unneccessary tables in Action Resolution (alpha sorts, numeric sorts). 
 3. Action Resolution Tracking - trying to fix most recent date bug. Changed key from Contracts to Pipeline to be AppID. EF_Contracts --> Contracts fixed the bug with latest date not showing data.
+4. Finalized Support Center dashboard. Working on initial selection for Action Resolution to show most recent date.
