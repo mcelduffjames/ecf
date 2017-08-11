@@ -121,3 +121,4 @@
 3. Wednesday: Action Resolution Tracking - trying to fix most recent date bug. Changed key from Contracts to Pipeline to be AppID. EF_Contracts --> Contracts fixed the bug with latest date not showing data.
 4. Thursday: Finalized Support Center dashboard. Working on initial selection for Action Resolution to show most recent date. Tried several extensions to no avail. Will wait until Qlik Sense provides native support.
 5. Friday: Last day wrap ups. Published Action Resolution to the Equipment Finance Stream. 
+#### Weekly Summary: Wrapping everything up before I go. 
