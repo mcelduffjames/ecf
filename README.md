@@ -10,22 +10,21 @@
   - [x] Rate Plan Surveillance
   - [x] Support Center
   - [x] Support Center QVD Generator
-  - [ ] Home Lending Ops
-  - [ ] Home Lending Ops QVD Generator Part 1
-  - [ ] Home Lending Ops QVD Generator Part 2
-  - [ ] Home Lending Sales
-  - [ ] Action Resolution Tracking
+  - [x] Action Resolution Tracking
+  - [x] Credit Tracking
+  - [x] Docs Received Tracking
+  - [x] TCO Accessories
 - [ ] New dashboards for Qliksense
 - [ ] Documentation for Qlik Knowledge Base
-- [ ] Visual enhancements
-- [ ] Improve existing dashboards
+- [x] Visual enhancements
+- [x] Improve existing dashboards
 
 #### Knowledge List
 - [ ] HTML, Javascript, CSS
 - [x] SQL/T-SQL
-- [ ] Markdown
-- [ ] Qliksense/Qlikview data expressions
-- [ ] Qlikscript
+- [x] Markdown
+- [x] Qliksense/Qlikview data expressions
+- [x] Qlikscript
 
 ### Calendar
 ## Week of May 22 - May 26, 2017
